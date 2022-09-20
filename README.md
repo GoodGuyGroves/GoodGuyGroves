@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+Welcome to my office.
+
+![Uh oh!](https://i.imgur.com/9ksTICA.gif)
 <!--
 **GoodGuyGroves/GoodGuyGroves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
